@@ -1,0 +1,10 @@
+CREATE DATABASE IF NOT EXISTS PassSubscriptions;
+USE PassSubscriptions;
+
+
+CREATE TABLE IF NOT EXISTS Subscriptions (
+   ID INT AUTO_INCREMENT PRIMARY KEY,
+   Level INT NOT NULL,
+   LicensePlate VARCHAR(20) NOT NULL,
+   ActiveOn VARCHAR(8) NOT NULL
+);

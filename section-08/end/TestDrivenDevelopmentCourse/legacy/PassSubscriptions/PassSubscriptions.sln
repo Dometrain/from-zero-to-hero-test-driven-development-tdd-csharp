@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ParkSubscriptions", "ParkSubscriptions\ParkSubscriptions.csproj", "{816E88F9-4000-446D-80EA-A376EAAC60B5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp", "ConsoleApp\ConsoleApp.csproj", "{79946878-9050-41FA-B7E3-BD42F9D0AC80}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ParkSubscriptions.ApprovalTests", "ParkSubscriptions.ApprovalTests\ParkSubscriptions.ApprovalTests.csproj", "{82BC414A-C735-44BA-8CED-EA498CD3440A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ParkSubscriptions.Tests", "ParkSubscriptions.Tests\ParkSubscriptions.Tests.csproj", "{9D52A775-E239-4DC8-9ECE-929C98414990}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{816E88F9-4000-446D-80EA-A376EAAC60B5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{816E88F9-4000-446D-80EA-A376EAAC60B5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{816E88F9-4000-446D-80EA-A376EAAC60B5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{816E88F9-4000-446D-80EA-A376EAAC60B5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{79946878-9050-41FA-B7E3-BD42F9D0AC80}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{79946878-9050-41FA-B7E3-BD42F9D0AC80}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{79946878-9050-41FA-B7E3-BD42F9D0AC80}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{79946878-9050-41FA-B7E3-BD42F9D0AC80}.Release|Any CPU.Build.0 = Release|Any CPU
+		{82BC414A-C735-44BA-8CED-EA498CD3440A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{82BC414A-C735-44BA-8CED-EA498CD3440A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{82BC414A-C735-44BA-8CED-EA498CD3440A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{82BC414A-C735-44BA-8CED-EA498CD3440A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9D52A775-E239-4DC8-9ECE-929C98414990}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9D52A775-E239-4DC8-9ECE-929C98414990}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9D52A775-E239-4DC8-9ECE-929C98414990}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9D52A775-E239-4DC8-9ECE-929C98414990}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

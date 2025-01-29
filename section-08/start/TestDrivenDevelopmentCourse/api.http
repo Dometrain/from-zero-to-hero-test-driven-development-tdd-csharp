@@ -1,0 +1,4 @@
+PUT http://localhost:5010/PricingTable
+Content-Type: application/json
+
+{ "tiers": [{ "price": 1, "hourLimit": 24}]}

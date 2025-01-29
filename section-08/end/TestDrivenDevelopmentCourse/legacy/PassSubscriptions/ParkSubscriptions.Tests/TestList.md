@@ -1,0 +1,4 @@
+- [x] Add new Monthly Type (name=Weekends)
+- [x] Map Type to Level
+- [ ] Use date to calculate price
+- [ ] If date is on a weekend price is 0
